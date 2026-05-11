@@ -1,0 +1,80 @@
+{
+  "source": "/Users/pranavi/Documents/embrace-app/EmbraceApp/EmbraceApp/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Embrace",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Record",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Model",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Model:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Core ML:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "loaded",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "not loaded",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "Signals",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 97
+        }
+      },
+      {
+        "comment": "",
+        "key": "Predictions",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 113
+        }
+      }
+    ]
+  },
+  "version": 1
+}

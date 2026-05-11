@@ -1,0 +1,342 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AAA00000000000000000B1B1 /* EmbraceAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA00000000000000000F1F1 /* EmbraceAppApp.swift */; };
+		AAA00000000000000000B2B1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA00000000000000000F2F1 /* ContentView.swift */; };
+		AAA00000000000000000B3B1 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA00000000000000000F3F1 /* Models.swift */; };
+		AAA00000000000000000B4B1 /* RecordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA00000000000000000F4F1 /* RecordView.swift */; };
+		AAA00000000000000000B5B1 /* ArmDialogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA00000000000000000F5F1 /* ArmDialogView.swift */; };
+		AAA00000000000000000B6B1 /* MindRoveClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA00000000000000000F6F1 /* MindRoveClient.swift */; };
+		AAA00000000000000000B7B1 /* ArmBleController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA00000000000000000F7F1 /* ArmBleController.swift */; };
+		AAA00000000000000000B8B1 /* GesturePredictor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA00000000000000000F8F1 /* GesturePredictor.swift */; };
+		AAA00000000000000000B9B1 /* EmbraceModel.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = AAA00000000000000000F9F1 /* EmbraceModel.mlpackage */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		AAA000000000000000000020 /* EmbraceApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EmbraceApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AAA00000000000000000F1F1 /* EmbraceAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmbraceAppApp.swift; sourceTree = "<group>"; };
+		AAA00000000000000000F2F1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		AAA00000000000000000F3F1 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		AAA00000000000000000F4F1 /* RecordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordView.swift; sourceTree = "<group>"; };
+		AAA00000000000000000F5F1 /* ArmDialogView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArmDialogView.swift; sourceTree = "<group>"; };
+		AAA00000000000000000F6F1 /* MindRoveClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MindRoveClient.swift; sourceTree = "<group>"; };
+		AAA00000000000000000F7F1 /* ArmBleController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArmBleController.swift; sourceTree = "<group>"; };
+		AAA00000000000000000F8F1 /* GesturePredictor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GesturePredictor.swift; sourceTree = "<group>"; };
+		AAA00000000000000000F9F1 /* EmbraceModel.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = EmbraceModel.mlpackage; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AAA000000000000000005002 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AAA000000000000000000002 = {
+			isa = PBXGroup;
+			children = (
+				AAA000000000000000000004 /* EmbraceApp */,
+				AAA000000000000000000003 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AAA000000000000000000003 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AAA000000000000000000020 /* EmbraceApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AAA000000000000000000004 /* EmbraceApp */ = {
+			isa = PBXGroup;
+			children = (
+				AAA00000000000000000F1F1 /* EmbraceAppApp.swift */,
+				AAA00000000000000000F2F1 /* ContentView.swift */,
+				AAA00000000000000000F3F1 /* Models.swift */,
+				AAA00000000000000000F4F1 /* RecordView.swift */,
+				AAA00000000000000000F5F1 /* ArmDialogView.swift */,
+				AAA00000000000000000F6F1 /* MindRoveClient.swift */,
+				AAA00000000000000000F7F1 /* ArmBleController.swift */,
+				AAA00000000000000000F8F1 /* GesturePredictor.swift */,
+				AAA00000000000000000F9F1 /* EmbraceModel.mlpackage */,
+			);
+			path = EmbraceApp;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AAA000000000000000000010 /* EmbraceApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AAA000000000000000006002 /* Build configuration list for PBXNativeTarget "EmbraceApp" */;
+			buildPhases = (
+				AAA000000000000000005001 /* Sources */,
+				AAA000000000000000005002 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = EmbraceApp;
+			productName = EmbraceApp;
+			productReference = AAA000000000000000000020 /* EmbraceApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AAA000000000000000000001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					AAA000000000000000000010 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = AAA000000000000000006001 /* Build configuration list for PBXProject "EmbraceApp" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AAA000000000000000000002;
+			productRefGroup = AAA000000000000000000003 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AAA000000000000000000010 /* EmbraceApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AAA000000000000000005001 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AAA00000000000000000B1B1 /* EmbraceAppApp.swift in Sources */,
+				AAA00000000000000000B2B1 /* ContentView.swift in Sources */,
+				AAA00000000000000000B3B1 /* Models.swift in Sources */,
+				AAA00000000000000000B4B1 /* RecordView.swift in Sources */,
+				AAA00000000000000000B5B1 /* ArmDialogView.swift in Sources */,
+				AAA00000000000000000B6B1 /* MindRoveClient.swift in Sources */,
+				AAA00000000000000000B7B1 /* ArmBleController.swift in Sources */,
+				AAA00000000000000000B8B1 /* GesturePredictor.swift in Sources */,
+				AAA00000000000000000B9B1 /* EmbraceModel.mlpackage in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		AAA000000000000000007001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AAA000000000000000007002 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		AAA000000000000000007003 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "Embrace uses Bluetooth to control the prosthetic arm.";
+				INFOPLIST_KEY_NSBluetoothPeripheralUsageDescription = "Embrace uses Bluetooth to control the prosthetic arm.";
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "Embrace uses the local network to receive EMG data from the MindRove armband over Wi-Fi.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.embrace.EmbraceApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AAA000000000000000007004 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "Embrace uses Bluetooth to control the prosthetic arm.";
+				INFOPLIST_KEY_NSBluetoothPeripheralUsageDescription = "Embrace uses Bluetooth to control the prosthetic arm.";
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "Embrace uses the local network to receive EMG data from the MindRove armband over Wi-Fi.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.embrace.EmbraceApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AAA000000000000000006001 /* Build configuration list for PBXProject "EmbraceApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AAA000000000000000007001 /* Debug */,
+				AAA000000000000000007002 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AAA000000000000000006002 /* Build configuration list for PBXNativeTarget "EmbraceApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AAA000000000000000007003 /* Debug */,
+				AAA000000000000000007004 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AAA000000000000000000001 /* Project object */;
+}

@@ -1,0 +1,48 @@
+{
+  "source": "/Users/pranavi/Documents/embrace-app/EmbraceApp/EmbraceApp/RecordView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Record MindRove",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save CSV",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Close",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 56
+        }
+      }
+    ]
+  },
+  "version": 1
+}

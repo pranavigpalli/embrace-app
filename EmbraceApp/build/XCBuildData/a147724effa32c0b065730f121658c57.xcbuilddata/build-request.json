@@ -1,0 +1,44 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "99fb04894c02cbf58efe495a673cb73736587b766a39b0bd25abf37af543070e"
+    }
+  ],
+  "containerPath" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/EmbraceApp.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "ARCHS" : "arm64",
+          "CODE_SIGNING_ALLOWED" : "NO",
+          "ONLY_ACTIVE_ARCH" : "NO",
+          "SDKROOT" : "iphonesimulator26.4",
+          "VALID_ARCHS" : "arm64"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

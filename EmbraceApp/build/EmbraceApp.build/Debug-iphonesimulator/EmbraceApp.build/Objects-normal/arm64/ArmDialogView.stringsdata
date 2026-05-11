@@ -1,0 +1,48 @@
+{
+  "source": "/Users/pranavi/Documents/embrace-app/EmbraceApp/EmbraceApp/ArmDialogView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Bluetooth Arms",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scanning...",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "No devices found",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Filtering on service UUID: %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Close",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 49
+        }
+      }
+    ]
+  },
+  "version": 1
+}

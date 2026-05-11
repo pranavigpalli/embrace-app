@@ -1,0 +1,99 @@
+{
+  "" : {
+    "diagnostics" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceApp-primary.dia",
+    "emit-module-dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceApp-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceApp-primary-emit-module.dia",
+    "pch" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceApp-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceApp-primary.swiftdeps"
+  },
+  "/Users/pranavi/Documents/embrace-app/EmbraceApp/EmbraceApp/ArmBleController.swift" : {
+    "const-values" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ArmBleController.swiftconstvalues",
+    "dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ArmBleController.d",
+    "diagnostics" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ArmBleController.dia",
+    "index-unit-output-path" : "/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ArmBleController.o",
+    "llvm-bc" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ArmBleController.bc",
+    "object" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ArmBleController.o",
+    "swift-dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ArmBleController.swiftdeps",
+    "swiftmodule" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ArmBleController~partial.swiftmodule"
+  },
+  "/Users/pranavi/Documents/embrace-app/EmbraceApp/EmbraceApp/ArmDialogView.swift" : {
+    "const-values" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ArmDialogView.swiftconstvalues",
+    "dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ArmDialogView.d",
+    "diagnostics" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ArmDialogView.dia",
+    "index-unit-output-path" : "/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ArmDialogView.o",
+    "llvm-bc" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ArmDialogView.bc",
+    "object" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ArmDialogView.o",
+    "swift-dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ArmDialogView.swiftdeps",
+    "swiftmodule" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ArmDialogView~partial.swiftmodule"
+  },
+  "/Users/pranavi/Documents/embrace-app/EmbraceApp/EmbraceApp/ContentView.swift" : {
+    "const-values" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/pranavi/Documents/embrace-app/EmbraceApp/EmbraceApp/EmbraceAppApp.swift" : {
+    "const-values" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceAppApp.swiftconstvalues",
+    "dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceAppApp.d",
+    "diagnostics" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceAppApp.dia",
+    "index-unit-output-path" : "/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceAppApp.o",
+    "llvm-bc" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceAppApp.bc",
+    "object" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceAppApp.o",
+    "swift-dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceAppApp.swiftdeps",
+    "swiftmodule" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceAppApp~partial.swiftmodule"
+  },
+  "/Users/pranavi/Documents/embrace-app/EmbraceApp/EmbraceApp/GesturePredictor.swift" : {
+    "const-values" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/GesturePredictor.swiftconstvalues",
+    "dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/GesturePredictor.d",
+    "diagnostics" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/GesturePredictor.dia",
+    "index-unit-output-path" : "/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/GesturePredictor.o",
+    "llvm-bc" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/GesturePredictor.bc",
+    "object" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/GesturePredictor.o",
+    "swift-dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/GesturePredictor.swiftdeps",
+    "swiftmodule" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/GesturePredictor~partial.swiftmodule"
+  },
+  "/Users/pranavi/Documents/embrace-app/EmbraceApp/EmbraceApp/MindRoveClient.swift" : {
+    "const-values" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/MindRoveClient.swiftconstvalues",
+    "dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/MindRoveClient.d",
+    "diagnostics" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/MindRoveClient.dia",
+    "index-unit-output-path" : "/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/MindRoveClient.o",
+    "llvm-bc" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/MindRoveClient.bc",
+    "object" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/MindRoveClient.o",
+    "swift-dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/MindRoveClient.swiftdeps",
+    "swiftmodule" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/MindRoveClient~partial.swiftmodule"
+  },
+  "/Users/pranavi/Documents/embrace-app/EmbraceApp/EmbraceApp/Models.swift" : {
+    "const-values" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/pranavi/Documents/embrace-app/EmbraceApp/EmbraceApp/RecordView.swift" : {
+    "const-values" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/RecordView.swiftconstvalues",
+    "dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/RecordView.d",
+    "diagnostics" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/RecordView.dia",
+    "index-unit-output-path" : "/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/RecordView.o",
+    "llvm-bc" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/RecordView.bc",
+    "object" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/RecordView.o",
+    "swift-dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/RecordView.swiftdeps",
+    "swiftmodule" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/RecordView~partial.swiftmodule"
+  },
+  "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/DerivedSources/CoreMLGenerated/EmbraceModel/EmbraceModel.swift" : {
+    "const-values" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceModel.swiftconstvalues",
+    "dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceModel.d",
+    "diagnostics" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceModel.dia",
+    "index-unit-output-path" : "/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceModel.o",
+    "llvm-bc" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceModel.bc",
+    "object" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceModel.o",
+    "swift-dependencies" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceModel.swiftdeps",
+    "swiftmodule" : "/Users/pranavi/Documents/embrace-app/EmbraceApp/build/EmbraceApp.build/Debug-iphonesimulator/EmbraceApp.build/Objects-normal/arm64/EmbraceModel~partial.swiftmodule"
+  }
+}
