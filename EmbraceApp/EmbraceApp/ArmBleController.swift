@@ -39,7 +39,7 @@ final class ArmBleController: NSObject, ObservableObject {
         discovered = []
         peripherals = [:]
         scanning = true
-        central.scanForPeripherals(withServices: [ARM_SERVICE_UUID])
+        central.scanForPeripherals(withServices: nil)
     }
 
     func stopScan() {
